@@ -43,7 +43,7 @@ Screenshot of added blocks
 
 Screenshot of Validate button
 
-<img src="https://github.com/Virginia440/Mod18_challenge/blob/main/Images/Validite%20chain.PNG" width=500 height=300>
+<img src="https://github.com/Virginia440/Mod18_challenge/blob/main/Images/Validate%20chain.PNG" width=500 height=300>
 
 ---
 
