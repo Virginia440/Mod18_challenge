@@ -37,12 +37,15 @@ Assuming the role of a fintech engineer working at one of the five largest banks
 
 ## Results
 
+Screenshot of added blocks
+
+<img src="https://github.com/Virginia440/Mod18_challenge/blob/main/Images/Multiple%20blocks.PNG" width=500 height=300>
+
+Screenshot of Validate button
+
+<img src="https://github.com/Virginia440/Mod18_challenge/blob/main/Images/Validite%20chain.PNG" width=500 height=300>
 
 ---
-
-## Summary
-
-
 
 
 ## License
